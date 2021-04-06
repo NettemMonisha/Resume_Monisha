@@ -10,17 +10,17 @@
 
 #### Educational Details:
 
--**Btech_CSE**
+- **Btech_CSE**
 - RVR&JC College Of Engineering
 - Acharya Nagarjuna University,Guntur
 - Andhra Pradesh,India
 
--**Intermediate**
+- **Intermediate**
 - Sri Chaitanya Jr College
 - Board Of Intermedaite
 - Guntur,Andhra Pradesh,India
 
--**SSC**
+- **SSC**
 
 - Sri Chaitanya School,Vidyanagar
 - Board Of SSC
