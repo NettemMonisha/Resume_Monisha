@@ -33,7 +33,7 @@
 
 #### Goals
 
-- Software Developer in 'python'
+- Software Developer in `python`
 
 #### Hobbies
 
